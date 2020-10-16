@@ -1,0 +1,54 @@
+h3 { text-align: center;
+   padding: 20px;
+   margin: 0px;
+}
+
+form { color: rgb(87, 87, 219)
+
+}
+
+
+header {
+   color: rgb(180, 67, 67);
+}
+
+strong {
+
+   color: rgb(75, 143, 75);
+}
+
+img { 
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+body {
+   margin: 0px;
+   background-color: white;
+}
+
+h2 { margin-right: auto;
+width: 140px;
+margin-left: 15px;
+
+
+}
+
+p {
+   font-size: 12px;
+   margin: 0px;
+   margin-left: 15px;
+}
+
+div {
+text-align: center;
+width: 700px;
+margin-left: auto;
+margin-right: auto;
+padding: 40px;
+background-color: green;
+margin-top: 50px;
+
+
+}
